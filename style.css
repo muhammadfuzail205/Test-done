@@ -1,0 +1,174 @@
+    /* .bg {
+        background-color: #333333 !important;
+        background-size: 1000px !important;
+    margin-bottom: 200px  ;
+    }
+.color{
+    width: 200px !important;
+    margin-top: 20px;
+}
+h1{color: aliceblue;
+    margin-bottom: 10px ;
+}
+
+ */
+span{
+    color: #006CE0;
+}
+.top{
+    background-color: #081F3E;
+}
+.top p{color: aliceblue;margin-left: 100px;}
+.opening{
+    margin-right: 100px;
+}
+.medi{
+    background-color: #74AFFF !important;
+}
+.Life{
+    
+    font-size: 45px;
+    margin-left: 100px;
+}
+sup{font-size: 30px !important;
+    background-color: #006BF4;
+    color: #ffff;
+    
+}
+.ho{
+    margin-left: 100px;
+    background-color: #006CFF;
+}
+.Life b{
+    color: #ffff;
+}
+/*  li{
+    color: #fff !important; 
+}*/
+li:hover{background-color: #006BF4;
+}
+li{margin-left: 50px;}
+.dropdown-item {
+    font-size: 13px;
+    font-weight: 500;
+    color: #5f5f5f;
+    text-transform: uppercase;
+}
+/* .dropdown-toggle {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    margin-left: .255em;
+    vertical-align: .255em;
+    content: "";
+    border-top: .3em solid;
+    border-right: .3em solid transparent;
+    border-bottom: 0;
+    border-left: .3em solid transparent;
+} */
+.dop{text-transform: uppercase;
+    text-align: center;
+     
+}
+
+
+.medilife-appoint-btn {
+    display: inline-block;
+    color: #ffffff;
+    background-color: #ff0000;
+    height: 50px;
+    padding: 0 15px;
+    line-height: 50px;
+    font-size: 14px;
+    min-width: 140px;
+    border-radius: 0;
+    font-weight: 500;
+    -webkit-transition-duration: 500ms;
+    transition-duration: 500ms;
+    text-transform: uppercase;
+    box-shadow: none;
+
+}
+.btn:hover{
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
+    background-color: #ffff;
+    color: #006BF4;
+}
+.ne{
+    background-color: #081F3E;
+    color: #ffffff;
+    font-size: 25px;
+}
+.pe{
+    background-color: #081F3E;
+    color: #ffffff;
+    font-size: 25px;    
+}
+.text{
+    text-align: left;
+    /* margin-bottom: 400px; */
+    margin-left: -50px;
+    color: #000;
+    font-size: 100px !important;
+}
+.btndis{
+    text-align: left;
+    margin-top: 50px;
+    margin-bottom: 350px;
+    
+}
+.btndis button{
+
+    color: #ffffff; 
+    font-size: large;
+}
+.btndis button{
+    color: white;
+    font-weight: 1000;
+    font-size: large;
+   outline:  #006CE0!important;
+    height: 50px;
+    
+}
+.btndis .positive{
+    width: 50px !important;
+
+}
+.btndis .cover:hover{
+    background-color: #081F3E !important;
+}
+.btndis .positive:hover{
+    background-color: #006BF4 !important;
+}
+/* .for {
+    background-color: transparent;
+    width: 100%;
+    height: 38px;
+    border-radius: 0;
+    font-size: 14px;
+    font-style: italic;
+    color: #ffffff;
+    margin-bottom: 30px;
+    font-weight: 500;
+    padding: 0 15px;
+    border: 2px solid #536174;
+} */
+ .cur{
+    cursor: pointer;
+ }
+ .d-inline{
+    display: flex !important;
+ }
+ .we h2{
+    color: black;
+ }
+.we .btn{
+    margin-top: 25px;
+    /* margin-bottom: 100px; */
+    margin-right: -10px;
+}
+.row{
+   display: inline-flex !important;
+   align-items: end;
+   
+}
